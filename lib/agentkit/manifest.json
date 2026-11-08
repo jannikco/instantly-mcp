@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "product": "pipmcp",
+  "credential": "PIPMCP_API_KEY",
+  "skills": [
+    {
+      "name": "pipmcp-instantly",
+      "description": "Connect AI agents to Instantly using one PipMCP API key and actual hosted tool discovery."
+    }
+  ],
+  "files": {
+    "skills/pipmcp-instantly/SKILL.md": "9e1ea78e21508e8d4b28a1a510d89e115a6ef4984ae7d698ecf072c04b4f8988"
+  }
+}
